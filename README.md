@@ -15,12 +15,12 @@
 </p>
 
 ---
+<div align="center">
 
-<p align="center">
-  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=25&pause=1000&color=4CAF50&center=true&vCenter=true&width=700&lines=Mobile+App+Developer;Full+Stack+Developer;AI+%26+RAG+Engineer;Tech+Enthusiast+%7C+Problem+Solver)](https://git.io/typing-svg)
 
-</p>
+</div>
+
 
 
 
