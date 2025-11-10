@@ -1,10 +1,15 @@
-# 👋 Hi, I'm **Noman Kaleem**
+<h1 align="center">👋 Hi, I'm <span style="color:#4CAF50">Noman Kaleem</span></h1>
+<h3 align="center">🚀 Mobile App Developer | Full Stack Developer | AI Engineer</h3>
 
-🎯 *Mobile App Developer | Full Stack Developer | AI & RAG Engineer*  
-📍 Lahore, Pakistan  
-📧 [nomanmughal82002@gmail.com](mailto:nomanmughal82002@gmail.com) | 📞 0304-5413509  
-🔗 [LinkedIn](https://linkedin.com/in/noman-kaleem-a76399321) | [GitHub](https://github.com/NomanKaleem01)  
-🏠 Jahangir Park, New Shadbagh, Lahore, Pakistan  
+<p align="center">
+  <a href="mailto:nomanmughal82002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/noman-kaleem-a76399321"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/NomanKaleem01"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  📍 Lahore, Pakistan | 📞 0304-5413509
+</p>
 
 ---
 
