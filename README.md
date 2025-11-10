@@ -119,29 +119,6 @@ Team Collaboration • Problem Solving • Adaptability • Communication • Le
 
 ---
 
-## ❤️ **Volunteer Work**
-- Participated in **Ramzan Iftar Distribution** & **Ration Packing** drives.  
-- Mentored students in **Campus Tech Events** and hackathons.
-
----
-
-## 🕹 **Hobbies & Interests**
-🌍 Traveling | 🎮 Gaming | 💡 Exploring New Tech
-
----
-
-## 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NomanKaleem01&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NomanKaleem01&theme=tokyonight" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NomanKaleem01&layout=compact&theme=tokyonight" width="50%" />
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NomanKaleem01&label=Profile%20views&color=0e75b6&style=flat" alt="Noman Kaleem" />
 </p>
